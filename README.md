@@ -5,3 +5,6 @@ These are several .HTML files to add on to your M5StickCPlus2,For the Evil Acces
 
 Assuming you have Bruce flashed. Go to Files (on the m5) and then WebUI. 
 After Connecting to the WebUI, I made a new folder and added them by dragging and dropping on bruce.local (admin/bruce are default credentials) 
+
+Support: 
+Discord : callmebiggs
