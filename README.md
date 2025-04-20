@@ -8,3 +8,4 @@ After Connecting to the WebUI, I made a new folder and added them by dragging an
 
 Support: 
 Discord : callmebiggs
+You know the drill, Educational Purposes Only, I do not condone malicous use of these files
